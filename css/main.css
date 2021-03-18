@@ -1,0 +1,110 @@
+body{
+    font-family: sans-serif;
+    margin: 0 0 80px ;
+
+}
+.ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+h1{
+    float: left;
+    color: #ffff;
+    padding: 40px 0 0 0;
+}
+
+/*li{
+    float: r
+}*/
+li a{
+    position: relative;
+    padding: 100px 0 0 160px ;
+    display:block;
+    float: left;
+    color:#ffff;
+    text-decoration: none;
+   }  
+
+.background {
+    /*background: url(https://drive.google.com/file/d/1Wwl7_7DVW4edb00kZVQTjYFBQL4pYBQM/view);*/
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    padding: 100px;
+    text-align: center;
+    border:#000;
+    border-width: 20px;
+    border-style: solid;
+}
+
+
+
+.container{
+    width: 100%;
+    border: 1px;
+    text-decoration: none;
+}
+
+.date{
+    text-decoration: center;
+    border:#000
+}
+.raisin-in-the-sun{
+    display: block;
+    position:center;
+    margin: 0 auto;
+}
+.first-show{
+    text-align: center;
+    position: relative;
+    float: center;
+    border-bottom: 1px solid grey;
+    line-height: 0.1em;
+    margin: 30px 0 20px;
+    text-decoration: none;
+}
+.second-show{
+    text-align: center;
+    position: relative;
+    float: center;
+    border-bottom: 1px solid grey;
+    line-height: 0.1em;
+    text-decoration: none;
+    margin: 30px 0 20px;
+}
+
+.third-show{
+    text-align: center;
+    position: relative;
+    float: center;
+    border-bottom: 1px solid grey;
+    line-height: 0.1em;
+    margin: 30px 0 20px;
+    text-decoration:none;
+}
+
+.fourth-show{
+    text-align: center;
+    position: relative;
+    float: center;
+    border-bottom: 1px solid grey;
+    margin: 30px 0 20px;
+    padding: 0 0 70 0;
+    text-decoration: none;
+}
+
+button{
+    font-size: 50%;
+    padding: 30px;
+    background-color: #e7e9ec;
+    border:1px solid #adb1b8;
+    border-radius: 2px;
+    margin: 50px 0 20px 500px;
+} 
+
+.footer>footerElem{
+    background-color: #000;
+}
